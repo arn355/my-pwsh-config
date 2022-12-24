@@ -7,7 +7,7 @@ This is configuration for my powershell.
 Make sure you not have powershell folder in your config path
 
 ```ps
-git clone https://github.com/arn355/my-nvim-config.git $HOME\.config\powershell
+git clone https://github.com/arn355/my-pwsh-config.git $HOME\.config\powershell
 ```
 
 And add this line to your $PROFILE
