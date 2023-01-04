@@ -2,6 +2,19 @@
 
 This is configuration for my powershell.
 
+## Requirements
+
+Terminal icons
+
+```ps
+Install-Module -Name Terminal-Icons
+```
+
+z (Directory jumper)
+```ps
+Install-Module -Name z
+```
+
 ## Install the configuration
 
 Make sure you not have powershell folder in your config path
